@@ -6,7 +6,6 @@ public class HitByBody : MonoBehaviour
 {
     private bool isHit;
     private Rigidbody myRigidbody;
-    //public GameObject part;
     private Collider myCollider;
     public string body_part;
 
